@@ -67,6 +67,9 @@ Build the library
 
 Then include 'libft.h' in your project and compile it with 'libft.a'
 
+## The Norm
+This project was realized following [the standard 42](https://raw.githubusercontent.com/42Paris/norminette-v3/master/pdf/en.norm.pdf). 
+
 ## Authors
 
 - [@thomasbrq](https://github.com/thomasbrq)
